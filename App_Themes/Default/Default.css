@@ -1,0 +1,57 @@
+﻿body {
+    background-image: url(images/bgimg.jpg);
+    background-repeat: repeat-x;
+    color: black;
+}
+
+.header {
+    background-image: url(images/header.png);
+    background-repeat: repeat-x;
+    text-align: right;
+    text-transform: uppercase;
+    vertical-align: bottom;
+    font-size: 32px;
+    font-weight: 800;
+    padding-top: 150px;
+    padding-bottom: 4px;
+    padding-right: 5px;
+}
+
+.menubg {
+background-image:url(images/menu_bg.jpg);
+}
+
+.menu {
+    align-items:stretch;
+    padding: 14px 14px 14px 14px;
+    color: White;
+    font-family: Calibri;
+    font-size: larger;
+    font-variant: small-caps;
+    text-align: center;
+    font-weight: 800;
+
+}
+
+
+.footer {
+    background-image:url(images/menu_bg.jpg);
+    color: #4cff00;
+    text-align: center;
+    font-size: small;
+    font-family: Segoe UI, Calibri, Verdana;
+}
+
+a {
+    font-family: Tahoma, Comic Sans MS, Calibri;
+    font-size: inherit;
+    text-decoration: none;
+    color: #656545;
+}
+
+h1 {
+    font-family: Calibri, Verdana, Tahoma, Segoe UI;
+    font-size: x-large;
+    font-variant: small-caps;
+    text-align: center;
+}

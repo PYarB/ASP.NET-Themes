@@ -1,0 +1,81 @@
+﻿body {
+    background-image: url(images/bgimg.bmp);
+    background-repeat: repeat-x;
+    color: black;
+}
+
+.header {
+    background-image: url(images/header.png);
+    text-align: right;
+    text-transform: uppercase;
+    vertical-align: bottom;
+    font-size: 32px;
+    font-weight: 800;
+    padding-top: 150px;
+    padding-bottom: 4px;
+    padding-right: 5px;
+}
+
+.menubg {
+    background-image:url(images/menu.jpg);
+}
+
+.menu {
+    align-items:stretch;
+    padding: 14px 14px 14px 14px;
+    color: White;
+    font-family: Calibri;
+    font-size: larger;
+    font-variant: small-caps;
+    text-align: center;
+    font-weight: 800;
+
+}
+
+
+.footer {
+        background-image:url(images/menu.jpg);
+    color: black;
+    text-align: center;
+    font-size: small;
+    font-family: Segoe UI, Calibri, Verdana;
+}
+
+a {
+    font-family: Tahoma, Comic Sans MS, Calibri;
+    font-size: inherit;
+    text-decoration: none;
+    color: #656545;
+}
+
+h1 {
+    font-family: Mistral;
+    font-size: x-large;
+    font-variant: small-caps;
+    text-align: center;
+}
+
+h3 {
+font-family:'Segoe UI',Tahoma,Verdana, Geneva, 'DejaVu Sans', sans-serif;
+text-align:center;
+text-decoration:wavy;
+}
+
+p {
+    font-family: Verdana;
+    font-size: medium;
+    text-align: justify;
+}
+
+
+.TxtLabels {
+    font-family: Segoe UI, Calibri, Verdana, Tahoma;
+    font-size: 13px;
+    text-decoration: none;
+    width: 150px;
+}
+
+.ContentTable {
+    font-size: 11pt;
+    font-family: Calibri,Verdana,Tahoma,'Segoe UI';
+}
